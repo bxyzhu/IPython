@@ -1,2 +1,1 @@
-# IPython
-MJD Low Energy Analysis
+# MJD Low Energy Analysis
