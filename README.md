@@ -1,1 +1,1 @@
-# MJD Low Energy Analysis
+# Various IPython notebooks for Majorana analysis
